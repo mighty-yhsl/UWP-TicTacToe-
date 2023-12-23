@@ -1,0 +1,1 @@
+C:\Users\oksana\source\repos\TicTacToe\TicTacToe\TicTacToe.csproj;x86
